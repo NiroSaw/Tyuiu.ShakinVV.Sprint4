@@ -1,6 +1,6 @@
-﻿using Tyuiu.ShakinVV.Sprint4.Task4.V2.Lib;
+﻿using Tyuiu.ShakinVV.Sprint4.Task0.V2.Lib;
 
-namespace Tyuiu.ShakinVV.Sprint4.Task4.V2
+namespace Tyuiu.ShakinVV.Sprint4.Task0.V2
 {
     internal class Program
     {

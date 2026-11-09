@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.ShakinVV.Sprint4.Task4.V2.Lib/Tyuiu.ShakinVV.Sprint4.Task4.V2.Lib.csproj" Id="88d09d21-3870-477a-a945-8f200e0de1f0" />
-    <Project Path="Tyuiu.ShakinVV.Sprint4.Task4.V2.Test/Tyuiu.ShakinVV.Sprint4.Task4.V2.Test.csproj" Id="7896d493-08f6-40b2-8ae4-0faf075a96eb" />
-    <Project Path="Tyuiu.ShakinVV.Sprint4.Task4.V2/Tyuiu.ShakinVV.Sprint4.Task4.V2.csproj" Id="a76d5a81-e908-4a15-8b8d-67c5f11442e9" />
+    <Project Path="Tyuiu.ShakinVV.Sprint4.Task0.V2.Lib/Tyuiu.ShakinVV.Sprint4.Task0.V2.Lib.csproj" Id="404f4c81-42d9-4f80-b388-72447d02d08d" />
+    <Project Path="Tyuiu.ShakinVV.Sprint4.Task0.V2.Test/Tyuiu.ShakinVV.Sprint4.Task0.V2.Test.csproj" Id="9b96892a-cdde-44c6-9829-054639265b2d" />
+    <Project Path="Tyuiu.ShakinVV.Sprint4.Task0.V2/Tyuiu.ShakinVV.Sprint4.Task0.V2.csproj" Id="07dda6f2-7fbe-4e9a-ba73-dd33e7930ad1" />
   </Folder>
   <Project Path="ForTest/ForTest.csproj" Id="4cb145f4-041c-480f-b853-7964b65687cf" />
 </Solution>

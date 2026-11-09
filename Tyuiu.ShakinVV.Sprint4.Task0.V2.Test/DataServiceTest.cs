@@ -1,8 +1,8 @@
-﻿using Tyuiu.ShakinVV.Sprint4.Task4.V2.Lib;
+﻿using Tyuiu.ShakinVV.Sprint4.Task0.V2.Lib;
 
 //{5 ,3 ,7 ,1 ,3 ,9 ,8 ,7 ,9 ,4}
 
-namespace Tyuiu.ShakinVV.Sprint4.Task4.V2.Test
+namespace Tyuiu.ShakinVV.Sprint4.Task0.V2.Test
 {
     [TestClass]
     public sealed class DataServiceTest

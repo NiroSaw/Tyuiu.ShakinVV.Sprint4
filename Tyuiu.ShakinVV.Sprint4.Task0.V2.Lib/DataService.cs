@@ -1,6 +1,6 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
 
-namespace Tyuiu.ShakinVV.Sprint4.Task4.V2.Lib
+namespace Tyuiu.ShakinVV.Sprint4.Task0.V2.Lib
 {
     public class DataService : ISprint4Task0V2
     {
