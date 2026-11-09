@@ -25,8 +25,7 @@ namespace Tyuiu.ShakinVV.Sprint4.Task1.V15
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            Console.Write("Введите размер массива (например, 14): ");
-            int size = Convert.ToInt32(Console.ReadLine());
+            int size = 14;
 
             int[] numsArry = new int[size];
 
