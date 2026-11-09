@@ -26,7 +26,7 @@ namespace Tyuiu.ShakinVV.Sprint4.Task1.V15
             Console.WriteLine("***************************************************************************");
 
             int size = 14;
-
+            Console.WriteLine($"Количество элементов массива {size}");
             int[] numsArry = new int[size];
 
             for (int i = 0; i < size; i++)
